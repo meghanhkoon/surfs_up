@@ -32,9 +32,10 @@ See the statistics and graphs for June and December below:
 
 From our summary statistics for temperatures in June and December, we can conclude: 
 
-1. 
-2.
-3.
+1. The average temperature throughout June and December is low 70 degrees (~72.5 degrees). However, in June, we see that the average is a little higher around 75 degrees vs. December averaging 71 degrees. 
+2. June's minimum temperature is 64 degrees and maximum temperature is 85 degrees. December's minimum temperature is colder at 56 degrees but max temperature is similar to June's (83 degrees).  
+3. Both June and December show similar min/max and average temperatures. Therefore, we can conclude that the temperature trends in Oahu show that the business could be sustainable year round. 
+4.
 
 
 ## Summary
